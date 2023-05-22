@@ -1,4 +1,17 @@
 .jumbotron {
-  padding: 2rem 1rem;
-  background-color: #e2edff;
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+  background-color: #fff;
+}
+
+.jumbotron-exp {
+  padding: 2rem 2rem;
+  background-image: url("../img/wp.jpg");
+  background-size: cover;
+}
+
+.jumbotron-exp-exp {
+  padding: 7rem 2rem;
+  background-image: url("../img/ts.jpg");
+  background-size: cover;
 }
